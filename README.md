@@ -1,6 +1,6 @@
 # 📝 Bloggle – Modern Blog Editor
 
-This is a **blog editor application** built using **Next.js**, **Tailwind CSS**, **ShadCN UI**, and **JavaScript**, developed as an **assignment for RevoltronX**.
+This is a **blog editor application** built using **Next.js**, **Tailwind CSS**, **ShadCN UI**, and **JavaScript**.
 
 ## 🚀 Features
 
